@@ -16,8 +16,6 @@ body {
   align-items: center;
   padding: 0 50px;
   background-color: #fff;
-  border-bottom: 1px solid #ddd;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
 }
 
 .logo img {
@@ -48,6 +46,7 @@ body {
   display: flex;
   align-items: center;
   text-transform: uppercase;
+  line-height: 100%;
 }
 
 .nav__link.is-active {
